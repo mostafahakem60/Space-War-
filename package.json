@@ -1,0 +1,17 @@
+{
+  "name": "neon-strike-vanilla",
+  "private": true,
+  "version": "2.4.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.14",
+    "tailwindcss": "^4.1.14",
+    "vite": "^6.2.0"
+  }
+}
